@@ -52,7 +52,7 @@ public class Main {
         }
         System.out.println("\n" + p);
       }
-      /*else if (ins.equals("t"))
+      else if (ins.equals("t"))
       {
         UltimateTeam t = new UltimateTeam(players, coaches);
         System.out.println("\nYour team is ready!\n");
@@ -73,7 +73,7 @@ public class Main {
               System.out.println("\n" + t + "\n");
             }
           }
-      }*/
+      }
     }
   }
 }
